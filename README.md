@@ -7,3 +7,5 @@ these are:
 
 * Docker
 * Kubernetes
+
+The scripts will work on any Debian based image, for instance Raspbian (Lite)
